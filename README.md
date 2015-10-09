@@ -49,25 +49,36 @@ Our overall goal here is simply to examine how household energy usage
 varies over a 2-day period in February, 2007. 
 
 The four plots that you will need to construct are shown below. 
+
 Download plot1.R, plot2.R, plot3.R , plot4.R  from https://github.com/amingautam/ExData_Plotting1 
 into your work directory [which can be located by running getwd()].
 
+<i><b>Note:</b> you will need to have 'sqldf' & 'datasets' packages installed.</i>
+
 ### Plot 1
 To construct the plot run the 'plot1.R' 
+
 This will create plot1.png with the dimensions specified in the assignment.
-Here is what the output:
+
+Here is the output:https://github.com/amingautam/ExData_Plotting1/blob/master/plot1.png
 
 ### Plot 2
 To construct the plot run the 'plot2.R' 
+
 This will create plot2.png with the dimensions specified in the assignment.
-Here is what the output:
+
+Here is the output: https://github.com/amingautam/ExData_Plotting1/blob/master/plot2.png
 
 ### Plot 3
 To construct the plot run the 'plot3.R' 
+
 This will create plot3.png with the dimensions specified in the assignment.
-Here is what the output:
+
+Here is the output: https://github.com/amingautam/ExData_Plotting1/blob/master/plot3.png
 
 ### Plot 4
 To construct the plot run the 'plot4.R' 
+
 This will create plot4.png with the dimensions specified in the assignment.
-Here is what the output:
+
+Here is the output: https://github.com/amingautam/ExData_Plotting1/blob/master/plot4.png
